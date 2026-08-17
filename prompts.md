@@ -29,7 +29,7 @@ information is not stated."
 
 ### User Prompt
 ```python
-SUMMARY_PROMPT_V2 = """
+SUMMARY_PROMPT = """
 Summarize the following loan application in exactly 3-4 sentences.
 
 Include, when stated:
